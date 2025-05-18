@@ -18,6 +18,8 @@
     "@angular/platform-browser": "^19.2.0",
     "@angular/platform-browser-dynamic": "^19.2.0",
     "@angular/router": "^19.2.0",
+    "@ngrx/store": "^19.2.0",
+    "@ngrx/store-devtools": "^19.2.0",
     "bootstrap": "^4.1.1",
     "firebase": "^11.7.3",
     "rxfire": "^6.1.0",
